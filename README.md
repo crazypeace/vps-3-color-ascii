@@ -18,3 +18,5 @@ VPS三色图 ASCII
 * 注意, 这里的ESC不是三个字母, 而是一个字符.
 
 ![image](https://user-images.githubusercontent.com/665889/169344087-79df836e-66ec-466f-b40f-02a83ddf044f.png)
+
+希望在shell中输出\E, 脚本的echo -e 里面要写\\\E
